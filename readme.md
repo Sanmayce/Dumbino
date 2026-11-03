@@ -1,1 +1,3 @@
-The smoooth Scroller and the Smooth Finder (Wildcard & Fuzzy)
+The Smooth Scroller-n-Finder (Wildcard & Fuzzy)
+
+Now, on Linux this GUI tool changes the way one views and searches textual data...
